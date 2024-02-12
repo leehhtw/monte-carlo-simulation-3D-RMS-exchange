@@ -1,6 +1,6 @@
 # Realistic Microstructure Simulator (RMS): Monte Carlo simulations of diffusion in 3D cells of permeable membrane (CUDA C++)
 
-The code implements 3d Monte Carlo simulations originally developed in [Lee, et al., Journal of Neuroscience Methods, 2020](https://doi.org/10.1016/j.jneumeth.2020.109018), demonstrating the effect of water exchange and axonal beading on the time-dependent kurtosis in [Wu et al., Advanced Science 2020 (in revision)]().
+The code implements 3d Monte Carlo simulations originally developed in [Lee, et al., Journal of Neuroscience Methods, 2020](https://doi.org/10.1016/j.jneumeth.2020.109018), demonstrating the effect of water exchange and axonal beading on the time-dependent kurtosis in [Wu et al., Science Advances 2020 (under revision)]().
 
 * **Demo 0, one sphere:** We simulate water diffusion initialized at the center of a permeable sphere, and validate the permeaion probility equation based on the calculated particle density, as detailed in [Fieremans & Lee, NeuroImage, 2018](https://doi.org/10.1016/j.neuroimage.2018.06.046) and [Lee, et al., Journal of Neuroscience Methods, 2020](https://doi.org/10.1016/j.jneumeth.2020.109018).
 * **Demo 1, random stick:** We perform simulations of diffusion in a medium composed of randomly positioned, randomly oriented cylinders with or without caliber variations (beadings) with a fixed membrane permeability.
