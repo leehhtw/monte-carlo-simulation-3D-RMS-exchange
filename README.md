@@ -1,8 +1,8 @@
 # Realistic Microstructure Simulator (RMS): Monte Carlo simulations of diffusion in 3D cells of permeable membrane (CUDA C++)
 
-The code implements 3d Monte Carlo simulations originally developed in [Lee, et al., Journal of Neuroscience Methods, 2020](https://doi.org/10.1016/j.jneumeth.2020.109018), demonstrating the effect of water exchange and axonal beading on the time-dependent kurtosis in [Wu et al., Science Advances 2020 (under revision)]().
+The code implements 3d Monte Carlo simulations originally developed in [Lee, et al., Journal of Neuroscience Methods, 2021](https://doi.org/10.1016/j.jneumeth.2020.109018), demonstrating the effect of water exchange and axonal beading on the time-dependent kurtosis in [Wu et al., Science Advances 2024 (under revision)]().
 
-* **Demo 0, one sphere:** We simulate water diffusion initialized at the center of a permeable sphere, and validate the permeaion probility equation based on the calculated particle density, as detailed in [Fieremans & Lee, NeuroImage, 2018](https://doi.org/10.1016/j.neuroimage.2018.06.046) and [Lee, et al., Journal of Neuroscience Methods, 2020](https://doi.org/10.1016/j.jneumeth.2020.109018).
+* **Demo 0, one sphere:** We simulate water diffusion initialized at the center of a permeable sphere, and validate the permeaion probility equation based on the calculated particle density, as detailed in [Fieremans & Lee, NeuroImage, 2018](https://doi.org/10.1016/j.neuroimage.2018.06.046) and [Lee, et al., Journal of Neuroscience Methods, 2021](https://doi.org/10.1016/j.jneumeth.2020.109018).
 * **Demo 1, random stick:** We perform simulations of diffusion in a medium composed of randomly positioned, randomly oriented cylinders with or without caliber variations (beadings) with a fixed membrane permeability.
 * **Demo 2, random stick:** We analyze the simulation result in Demo 1.
 * **Demo 3, random stick, fixed exchange time:** We perform simulations of diffusion in a medium composed of randomly positioned, randomly oriented cylinders with or without caliber variations (beadings) with a fixed exchange time.
@@ -18,8 +18,8 @@ The code implements 3d Monte Carlo simulations originally developed in [Lee, et 
   - [Fieremans and Lee, NeuroImage 2018](https://doi.org/10.1016/j.neuroimage.2018.06.046)
   - [Lee, et al., Communications Biology 2020](https://doi.org/10.1038/s42003-020-1050-x)
   - [Lee, et al., NeuroImage 2020](https://doi.org/10.1016/j.neuroimage.2020.117228)
-  - [Lee, et al., Journal of Neuroscience Methods](https://doi.org/10.1016/j.jneumeth.2020.109018)
-  - [Lee, et al., NMR in Biomedicine](https://doi.org/10.1002/nbm.5087)
+  - [Lee, et al., Journal of Neuroscience Methods 2021](https://doi.org/10.1016/j.jneumeth.2020.109018)
+  - [Lee, et al., NMR in Biomedicine 2024](https://doi.org/10.1002/nbm.5087)
 
 ## Authors
 * [Hong-Hsi Lee](http://www.diffusion-mri.com/people/hong-hsi-lee)
