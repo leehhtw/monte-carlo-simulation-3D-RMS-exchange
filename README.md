@@ -13,13 +13,13 @@ The code implements 3d Monte Carlo simulations originally developed in [Lee, et 
 
 ## References
 * **Monte Carlo simulation**
-  - [Fieremans, et al., NMR Biomed, 2010] (https://doi.org/10.1002/nbm.1577)
-  - [Novikov, et al., Nature Physics, 2011] (https://doi.org/10.1038/nphys1936)
-  - [Fieremans and Lee, NeuroImage 2018] (https://doi.org/10.1016/j.neuroimage.2018.06.046)
-  - [Lee, et al., Communications Biology 2020] (https://doi.org/10.1038/s42003-020-1050-x)
-  - [Lee, et al., NeuroImage 2020] (https://doi.org/10.1016/j.neuroimage.2020.117228)
-  - [Lee, et al., Journal of Neuroscience Methods] (https://doi.org/10.1016/j.jneumeth.2020.109018)
-  - [Lee, et al., NMR in Biomedicine] (https://doi.org/10.1002/nbm.5087)
+  - [Fieremans, et al., NMR Biomed, 2010](https://doi.org/10.1002/nbm.1577)
+  - [Novikov, et al., Nature Physics, 2011](https://doi.org/10.1038/nphys1936)
+  - [Fieremans and Lee, NeuroImage 2018](https://doi.org/10.1016/j.neuroimage.2018.06.046)
+  - [Lee, et al., Communications Biology 2020](https://doi.org/10.1038/s42003-020-1050-x)
+  - [Lee, et al., NeuroImage 2020](https://doi.org/10.1016/j.neuroimage.2020.117228)
+  - [Lee, et al., Journal of Neuroscience Methods](https://doi.org/10.1016/j.jneumeth.2020.109018)
+  - [Lee, et al., NMR in Biomedicine](https://doi.org/10.1002/nbm.5087)
 
 ## Authors
 * [Hong-Hsi Lee](http://www.diffusion-mri.com/people/hong-hsi-lee)
